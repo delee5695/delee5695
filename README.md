@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=a2bece&height=200&text=Develop%20Journey&fontSize=50&animation=fadeIn&fontColor=727996&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=a2bece&height=200&text=🌱%20Develop%20Journey%20🌱&fontSize=50&animation=fadeIn&fontColor=727996&fontAlignY=35)
 ### Hi there 👋
 I'm a student developer and I like to refer to my learning as a **develop journey**🎈
 
