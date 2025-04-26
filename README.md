@@ -19,10 +19,10 @@ This is the journey I took so far!
 ## Contact Me
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/sallydaeunlee)
 Email: slee2@olin.edu
-
+<!--
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=delee5695&show_icons=true)
 [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=delee5695&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/delee5695)
-
+-->
 
 
 <!--
